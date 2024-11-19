@@ -18,8 +18,6 @@ app.use(express.json())
 //   {id: '5', name: 'c5', price: 205020 },
 // ]
 
-// NkmnjgC9tjqnZxEF
-// demotest
 
 
 const uri = `mongodb+srv://${process.env.DB_USER_2}:${process.env.DB_PASS_2}@cluster0.fovwt3b.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0`;
